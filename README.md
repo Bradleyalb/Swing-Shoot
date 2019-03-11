@@ -1,2 +1,2 @@
 # Swing-Shoot
-Swing across the screen as you try to shoot your opponent
+Classes for the Swing & Shoot game video of functionality here. https://www.youtube.com/watch?v=HggyKE3gIbc&t=22s 
